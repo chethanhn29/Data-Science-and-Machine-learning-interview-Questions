@@ -16,8 +16,8 @@ https://www.quora.com/What-are-the-maths-behind-the-deep-learning-algorithms   -
 
 https://www.quora.com/Which-are-the-best-resources-to-learn-the-mathematics-behind-machine-learning-algorithms  ----- for Machine Leaning
 
-
-https://www.interviewbit.com/machine-learning-interview-questions/    ---- Machine Learning interview questions
+## Machine Learning interview questions
+https://www.interviewbit.com/machine-learning-interview-questions/   
 
 
 https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions
