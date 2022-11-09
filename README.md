@@ -6,6 +6,8 @@ https://www.geeksforgeeks.org/machine-learning/
 
 for sql --- https://www.tutorialspoint.com/sql/sql-quick-guide.htm
 
+https://datalemur.com/  ---- TO Practice SQL interview questions
+
 https://www.researchgate.net/publication/345750399_Statistical_Data_Analysis_Lecture_Notes  ---- for statistics
 
 https://www.analyticsvidhya.com/blog/2021/06/how-to-learn-mathematics-for-machine-learning-what-concepts-do-you-need-to-master-in-data-science/ --- Maths
