@@ -1,6 +1,6 @@
-# Deep-learning-revision
+# Data scince and Machine learning Basics and Interview questions
 
-https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/
+https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/ ----  Deep-learning-revision
 
 https://www.geeksforgeeks.org/machine-learning/
 
