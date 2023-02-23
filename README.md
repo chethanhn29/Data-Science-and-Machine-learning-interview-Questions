@@ -31,9 +31,8 @@ https://www.analyticsvidhya.com/blog/2019/10/mathematics-behind-machine-learning
 
 https://www.quora.com/What-are-the-maths-behind-the-deep-learning-algorithms   --- 
 
-file:///C:/Users/Chethan/Downloads/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf
 
-https://course.fast.ai/Lessons/lesson1.html
+https://course.fast.ai/Lessons/lesson1.html ----- for Machine Leaning and Deep learning
 
 https://www.quora.com/Which-are-the-best-resources-to-learn-the-mathematics-behind-machine-learning-algorithms  ----- for Machine Leaning
 
