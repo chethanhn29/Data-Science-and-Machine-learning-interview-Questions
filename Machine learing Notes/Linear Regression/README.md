@@ -1,5 +1,11 @@
 Linear regression is a statistical method that is used to establish a linear relationship between a dependent variable (y) and one or more independent variables (x). The objective of linear regression is to find the best fit line that represents the relationship between the variables. This line is known as the regression line or the line of best fit.
 
+## An example
+Examples makes it easy to understand, so suppose you want to predict the price of a house by knowing its size. You have the data which has some house prices and corresponding sizes. Charting the data and fitting a line among them will look something like this:
+https://miro.medium.com/v2/resize:fit:1400/format:webp/1*svahBA5ouJhlyo-pfuVENQ.png
+
+To generalise, you draw a straight line such that it crosses through the maximum points. Once you get that line, for house of any size you just project that data point over the line which gives you the house price.
+
 ## Linear regression can be represented mathematically as:
 
 y = β0 + β1x1 + β2x2 + ... + βnxn + ε
@@ -24,11 +30,14 @@ SSE = Σ(yi - β0 - β1x1 - β2x2 - ... - βnxn)2
 ## Evaluation Metrics:
 There are several evaluation metrics that can be used to assess the performance of a linear regression model, including:
 
-### R-squared (R2): R-squared measures the proportion of the variation in the dependent variable that is explained by the independent variables. It is a value between 0 and 1, with higher values indicating better performance.
+### R-squared (R2): 
+R-squared measures the proportion of the variation in the dependent variable that is explained by the independent variables. It is a value between 0 and 1, with higher values indicating better performance.
 
-### Mean Squared Error (MSE): MSE measures the average of the squared differences between the predicted and actual values. Lower values indicate better performance.
+### Mean Squared Error (MSE):
+MSE measures the average of the squared differences between the predicted and actual values. Lower values indicate better performance.
 
-### Root Mean Squared Error (RMSE): RMSE is the square root of the MSE and is a commonly used metric in regression analysis. Lower values indicate better performance.
+### Root Mean Squared Error (RMSE): 
+RMSE is the square root of the MSE and is a commonly used metric in regression analysis. Lower values indicate better performance.
 
 ## Graphs:
 Linear regression can be visualized using scatter plots and regression lines. Scatter plots are used to plot the relationship between the independent and dependent variables, while regression lines are used to represent the
