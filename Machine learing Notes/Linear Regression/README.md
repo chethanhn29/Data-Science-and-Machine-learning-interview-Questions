@@ -2,7 +2,7 @@ Linear regression is a statistical method that is used to establish a linear rel
 
 ## An example
 Examples makes it easy to understand, so suppose you want to predict the price of a house by knowing its size. You have the data which has some house prices and corresponding sizes. Charting the data and fitting a line among them will look something like this:
-https://miro.medium.com/v2/resize:fit:1400/format:webp/1*svahBA5ouJhlyo-pfuVENQ.png
+![Screenshot (196)](https://user-images.githubusercontent.com/110838853/221059142-19ffbe6a-3a9c-4346-99f0-d384feb4a1e7.png)
 
 To generalise, you draw a straight line such that it crosses through the maximum points. Once you get that line, for house of any size you just project that data point over the line which gives you the house price.
 
